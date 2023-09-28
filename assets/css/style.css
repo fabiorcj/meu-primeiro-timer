@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    outline: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    background: #ff0000;
+}
+
+.conteiner {
+    max-width: 680px;
+    background: #fff;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.timer {
+    padding: 0;
+    margin: 0 0 5px 0;
+    font-size: 50px;
+}
+
+.title {
+    padding: 0;
+    margin: 0;
+}
+
+.pausado {
+    color: red;
+}
